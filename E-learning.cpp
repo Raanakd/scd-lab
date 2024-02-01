@@ -1,0 +1,8 @@
+class {
+
+
+
+}
+innt main()s{
+
+}
